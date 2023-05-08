@@ -44,5 +44,5 @@ The classifier uses the transformers library to load and fine-tune the RoBERTa m
 ### Accuracy on the dev dataset
 On the dev data set, we obtained on average an accuracy of 87.34% with std 1.15. 
 
-
+![Alt text](./Accuracy.png)
 
